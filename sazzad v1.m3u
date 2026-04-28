@@ -118,7 +118,8 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 http://198.195.239.50:8095/SonyAath/index.m3u8
 
 #EXTINF:-1 group-title="Sazzad ip tv",Star Jalsha HD
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8,http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 
 #EXTINF:-1 group-title="Sazzad ip tv",Zee-Bangla Cinema
 http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
