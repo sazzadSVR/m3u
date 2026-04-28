@@ -1,282 +1,315 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Sazzad ip tv",01 BTV
+#EXTINF:-1 group-title="Sazzad ip tv",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",02 SOMOY TV
+#EXTINF:-1 group-title="Sazzad ip tv",SOMOY TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",03 Ekattor TV
+#EXTINF:-1 group-title="Sazzad ip tv",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",04 Channel 24
+#EXTINF:-1 group-title="Sazzad ip tv",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",05 INDEPENDENT TV
+#EXTINF:-1 group-title="Sazzad ip tv",INDEPENDENT TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",06 JAMUNA TV
+#EXTINF:-1 group-title="Sazzad ip tv",JAMUNA TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",07 Star News
+#EXTINF:-1 group-title="Sazzad ip tv",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",08 NEWS 24 HD
+#EXTINF:-1 group-title="Sazzad ip tv",NEWS 24 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",09 DBC News
+#EXTINF:-1 group-title="Sazzad ip tv",DBC News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",10 Ekon tv
+#EXTINF:-1 group-title="Sazzad ip tv",Ekon tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",11 ATN NEWS [BD]
+#EXTINF:-1 group-title="Sazzad ip tv",ATN NEWS [BD]
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",12 ATN Bangla
+#EXTINF:-1 group-title="Sazzad ip tv",ATN Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",13 NTV
+#EXTINF:-1 group-title="Sazzad ip tv",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",13 NTV Europe
+#EXTINF:-1 group-title="Sazzad ip tv",NTV Europe
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ntvuk00332211.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",14 Banglavision
+#EXTINF:-1 group-title="Sazzad ip tv",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",15 SATV
+#EXTINF:-1 group-title="Sazzad ip tv",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",16 Ekushey TV
+#EXTINF:-1 group-title="Sazzad ip tv",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",17 Channel I
+#EXTINF:-1 group-title="Sazzad ip tv",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",18 Deepto TV
+#EXTINF:-1 group-title="Sazzad ip tv",Deepto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",19 Maasranga Tv
+#EXTINF:-1 group-title="Sazzad ip tv",Maasranga Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",20 Channel 9
+#EXTINF:-1 group-title="Sazzad ip tv",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",21 Desh TV
+#EXTINF:-1 group-title="Sazzad ip tv",Channel S BD
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",Desh TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",22 MY TV HD
+#EXTINF:-1 group-title="Sazzad ip tv",MY TV HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",22 GTV
+#EXTINF:-1 group-title="Sazzad ip tv",GTV
 http://starshare.cx:80/PeH5kPWFfG/infamous7funny/767
 
-#EXTINF:-1 group-title="Sazzad ip tv",23 Boishaki TV
+#EXTINF:-1 group-title="Sazzad ip tv",Boishaki TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",24 GREEN TV
+#EXTINF:-1 group-title="Sazzad ip tv",Nagorik TV
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/3802
+
+#EXTINF:-1 group-title="Sazzad ip tv",Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",News 21 TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",GREEN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",25 G-Serise
+#EXTINF:-1 group-title="Sazzad ip tv",Bangla TV
+https://satoshi-cors.herokuapp.com/http://116.204.149.16/banglatv/mono.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",Bangla ONE
+https://video1.getstreamhosting.com:1936/eycqczsxka/eycqczsxka/playlist.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",G-Serise
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",26 Deshi tv
+#EXTINF:-1 group-title="Sazzad ip tv",ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",Deshi tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",27 Movie Bangla TV
+#EXTINF:-1 group-title="Sazzad ip tv",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",28 Rajdhani tv
+#EXTINF:-1 group-title="Sazzad ip tv",Rajdhani tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",29 Deshe Bideshe
+#EXTINF:-1 group-title="Sazzad ip tv",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",29 SonyAath
+#EXTINF:-1 group-title="Sazzad ip tv",SonyAath
 http://198.195.239.50:8095/SonyAath/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",30 Star Jalsha HD
-https://playztv-apps.pages.dev/star-jalsha/index.m3u8
+#EXTINF:-1 group-title="Sazzad ip tv",Star Jalsha HD
+https://playztv-apps.pages.dev/star-jalsha/index.m3u8,http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",31 Jalsha Movies HD
+#EXTINF:-1 group-title="Sazzad ip tv",Zee-Bangla Cinema
+http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",Jalsha Movies HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",32 ZB Cinema
+#EXTINF:-1 group-title="Sazzad ip tv",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",33 Colors Bangla HD
-https://iptvcable.netlify.app/Altogether-007/Kolkata/ColorsBanglaHD.m3u8
+#EXTINF:-1 group-title="Sazzad ip tv",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",34 BANGLA+ HD
+#EXTINF:-1 group-title="Sazzad ip tv",Colors Bangla HD
+http://198.195.239.50:8095/bdixbd.net_ColorsBanglaHD/video.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",Somoy Kolkata
+https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",BANGLA+ HD
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",35 DD Bangla
+#EXTINF:-1 group-title="Sazzad ip tv",DD Bangla
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",36 Enter 10 Bangla
+#EXTINF:-1 group-title="Sazzad ip tv",Enter 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",37 Republic Bangla
+#EXTINF:-1 group-title="Sazzad ip tv",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/06e5afc2-a022-4e51-9131-4e33a6207c5c/1.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",38 News18 Bangla News
+#EXTINF:-1 group-title="Sazzad ip tv",News18 Bangla News
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",39 TV9 Bangla
+#EXTINF:-1 group-title="Sazzad ip tv",TV9 Bangla
 https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-tv9bangla-samsungin/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",40 R Plus
+#EXTINF:-1 group-title="Sazzad ip tv",R Plus
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",41 Zee 24 Ghanta
+#EXTINF:-1 group-title="Sazzad ip tv",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",42 Khushboo
+#EXTINF:-1 group-title="Sazzad ip tv",Khushboo
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",43 TV9 Bangla HD
+#EXTINF:-1 group-title="Sazzad ip tv",TV9 Bangla HD
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",44 Kolkata TV
+#EXTINF:-1 group-title="Sazzad ip tv",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",45 Tribe TV
+#EXTINF:-1 group-title="Sazzad ip tv",Tribe TV
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",46 India Today
+#EXTINF:-1 group-title="Sazzad ip tv",India Today
 https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",47 Star Gold-2 HD
+#EXTINF:-1 group-title="Sazzad ip tv",Star Gold-2 HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/157081.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",48 Hindi movie
+#EXTINF:-1 group-title="Sazzad ip tv",Hindi movie
 https://live20.bozztv.com/giatvplayout7/giatv-209612/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",49 South Station
+#EXTINF:-1 group-title="Sazzad ip tv",South Station
 https://jmp2.uk/stvp-IN3800008CX
 
-#EXTINF:-1 group-title="Sazzad ip tv",50 ShemarooTV
+#EXTINF:-1 group-title="Sazzad ip tv",ShemarooTV
 https://cdn-3.pishow.tv/live/230/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",51 Movie Classic 24
+#EXTINF:-1 group-title="Sazzad ip tv",Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",52 Big Magic
+#EXTINF:-1 group-title="Sazzad ip tv",Big Magic
 http://103.175.73.12:8080/live/13/13_0.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",53 Sony TV HD
+#EXTINF:-1 group-title="Sazzad ip tv",Sony TV HD
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",54 Aaj Tak HD
-https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8
+#EXTINF:-1 group-title="Sazzad ip tv",Aaj Tak HD
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/live_720p/chunks.m3u8,https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",55 Aaj Tak SD
-https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
-
-#EXTINF:-1 group-title="Sazzad ip tv",56 NEWS NATION
+#EXTINF:-1 group-title="Sazzad ip tv",NEWS NATION
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",57 ndtv
+#EXTINF:-1 group-title="Sazzad ip tv",ndtv
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",58 awaaz india
+#EXTINF:-1 group-title="Sazzad ip tv",awaaz india
 http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",59 Sangeet Bangla
+#EXTINF:-1 group-title="Sazzad ip tv",MUSIC BANGLA
+http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Sazzad ip tv",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",60 Zoom
+#EXTINF:-1 group-title="Sazzad ip tv",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",61 ICC 9XM
+#EXTINF:-1 group-title="Sazzad ip tv",ICC 9XM
 https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",62 Hindi Hits HD
+#EXTINF:-1 group-title="Sazzad ip tv",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",63 Music India
+#EXTINF:-1 group-title="Sazzad ip tv",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",64 Bojhpur
+#EXTINF:-1 group-title="Sazzad ip tv",Bojhpur
 https://github.com/sonamul4545/Channel_logo-s/blob/main/Sangeet%20Bhojpuri.jpg?raw=true" tvg-chno="sangeet-bhojpuri" group-title="FreeTV🇮🇳",Sangeet Bhojpuri
 https://mumt01.tangotv.in/SANGEETBHOJPURI/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",65 Balle Balle
+#EXTINF:-1 group-title="Sazzad ip tv",Balle Balle
 https://github.com/sonamul4545/Channel_logo-s/blob/main/Balle%20Balle.jpg?raw=true" tvg-chno="balle-balle" group-title="Pishow🇮🇳",Balle Balle
 https://cdn-4.pishow.tv/live/987/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",66 Duronto TV
+#EXTINF:-1 group-title="Sazzad ip tv",Duronto TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",67 SRK TV
+#EXTINF:-1 group-title="Sazzad ip tv",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",68 Motu Patlu
+#EXTINF:-1 group-title="Sazzad ip tv",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",69 ZB Kartun
+#EXTINF:-1 group-title="Sazzad ip tv",ZB Kartun
 https://server.zillarbarta.com/zbcatun/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",70 Discovery
+#EXTINF:-1 group-title="Sazzad ip tv",Discovery
 http://202.70.146.135:8000/play/a05z/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",71 National Geographic HD (1080p)
+#EXTINF:-1 group-title="Sazzad ip tv",National Geographic HD (1080p)
 http://103.157.248.140:8000/play/a012/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",72 Travel XP
+#EXTINF:-1 group-title="Sazzad ip tv",Travel XP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",73 Adventure Earth
+#EXTINF:-1 group-title="Sazzad ip tv",Adventure Earth
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",74 National Geographic Wild HD (1080p)
+#EXTINF:-1 group-title="Sazzad ip tv",National Geographic Wild HD (1080p)
 http://103.157.248.140:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sazzad ip tv",75 Saudi Quran
+#EXTINF:-1 tvg-logo="" group-title="Sazzad ip tv",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sazzad ip tv",76 Madina Live
+#EXTINF:-1 tvg-logo="" group-title="Sazzad ip tv",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Sazzad ip tv",77 Islamic TV
+#EXTINF:-1 tvg-logo="" group-title="Sazzad ip tv",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",78 Ten Sports
+#EXTINF:-1 group-title="Sazzad ip tv",Ten Sports
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",79 Ten Sports Cricket
+#EXTINF:-1 group-title="Sazzad ip tv",Ten Sports Cricket
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/514856.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",80 BeIN Sports 1
+#EXTINF:-1 group-title="Sazzad ip tv",BeIN Sports 1
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",81 BeIN Sports 2
+#EXTINF:-1 group-title="Sazzad ip tv",BeIN Sports 2
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652311.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",82 BeIN Sports 3
+#EXTINF:-1 group-title="Sazzad ip tv",BeIN Sports 3
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652312.ts
 
-#EXTINF:-1 group-title="Sazzad ip tv",83 FIFA TV
+#EXTINF:-1 group-title="Sazzad ip tv",Sony Ten 3
+http://starshare.cx:80/PeH5kPWFfG/infamous7funny/435
+
+#EXTINF:-1 group-title="Sazzad ip tv",FIFA TV
 https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/208a5f9f-a3b1-461f-b84d-cc15437bb9d2/2.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",84 Cloud Stream
+#EXTINF:-1 group-title="Sazzad ip tv",Cloud Stream
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 group-title="Sazzad ip tv",85 Stream Hoster
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",86 OAN NEWS
+#EXTINF:-1 group-title="Sazzad ip tv",OAN NEWS
 https://a-cdn.klowdtv.com/live1/oan_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",87 MovieSphere
+#EXTINF:-1 group-title="Sazzad ip tv",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",88 Rakuten Movies
+#EXTINF:-1 group-title="Sazzad ip tv",Rakuten Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",89 Al Jazeera
+#EXTINF:-1 group-title="Sazzad ip tv",Al Jazeera
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="Sazzad ip tv",90 NPL TV
+#EXTINF:-1 group-title="Sazzad ip tv",NPL TV
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
